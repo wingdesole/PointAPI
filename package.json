@@ -10,23 +10,23 @@
   "author": "wingdesole",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^1.0.3",
+    "bcrypt": "^3.0.2",
     "body-parser": "^1.18.3",
     "compression": "^1.7.3",
-    "config": "^1.29.4",
+    "config": "^2.0.1",
     "express": "^4.16.2",
-    "express-async-errors": "^2.1.0",
+    "express-async-errors": "^3.1.1",
     "fawn": "^2.1.5",
     "helmet": "^3.14.0",
-    "joi": "^13.1.0",
+    "joi": "^14.0.3",
     "joi-objectid": "^2.0.0",
     "jsonwebtoken": "^8.1.1",
     "jwt-decode": "^2.2.0",
     "lodash": "^4.17.11",
     "moment": "^2.20.1",
-    "mongoose": "^5.0.2",
+    "mongoose": "^5.3.8",
     "morgan": "^1.9.1",
-    "winston": "^2.4.0",
-    "winston-mongodb": "^3.0.0"
+    "winston": "^3.1.0",
+    "winston-mongodb": "^4.0.3"
   }
 }
