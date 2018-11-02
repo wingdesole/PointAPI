@@ -26,6 +26,10 @@ const merchantSchema = new mongoose.Schema({
     type: Number,
     default: 0
   },
+  isMerchant: {
+    type: Boolean,
+    default: true
+  },
   isAdminRole: Boolean
 });
 
